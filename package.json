@@ -2,7 +2,7 @@
   "name": "@f/svg-attribute-namespaces",
   "description": "Map of SVG attribute namespaces",
   "repository": "git://github.com/micro-js/svg-attribute-namespaces.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
